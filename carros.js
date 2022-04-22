@@ -50,3 +50,4 @@ function voltaCarroPosicaoInicial(){
 //  if (xCarro1 < -50){
 //    xCarro1 = 650
 //  }
+// Agora é só repetir para os outros carros
