@@ -47,4 +47,6 @@ function voltaCarroPosicaoInicial(){
 // Fazendo o carro voltar
 
 // Para isso vamos criar uma função que reconheçe o valor da posição x do carro, e quando esse valor for menor que -50 (para incluir o tamnho do carro) fazemos com que o carro volte para a posição inicial;
-// 
+//  if (xCarro1 < -50){
+//    xCarro1 = 650
+//  }
